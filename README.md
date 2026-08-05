@@ -32,10 +32,6 @@ Git | GitHub | VS Code | Jupyter Notebook | Anaconda
 * Python Projects
 
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumangiri1312\&show_icons=true)
-
 ## Connect With Me
 
 * GitHub: https://github.com/Sumangiri1312
