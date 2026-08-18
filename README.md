@@ -18,7 +18,7 @@ HTML | CSS | JavaScript
 MySQL | SQL
 
 ### Data Science
-NumPy | Pandas | Matplotlib
+NumPy | Pandas | Matplotlib | Seaborn
 
 ### Tools
 Git | GitHub | VS Code | Jupyter Notebook | Anaconda
